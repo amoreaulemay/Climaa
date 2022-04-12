@@ -1,0 +1,127 @@
+{
+  "theme_name": "Neon Dark",
+  "theme_version": "1.0.0",
+  "theme_author": "Alexandre Moreau-Lemay",
+  "theme_data": {
+    "background": [
+      255,
+      30,
+      45,
+      55
+    ],
+    "brightness": "dark",
+    "cardBackground": [
+      255,
+      65,
+      79,
+      87
+    ],
+    "infoBarBlue": [
+      255,
+      0,
+      135,
+      203
+    ],
+    "linkText": [
+      255,
+      104,
+      165,
+      204
+    ],
+    "moonBaseColour": [
+      255,
+      255,
+      198,
+      84
+    ],
+    "moonShineAccent": [
+      255,
+      255,
+      234,
+      191
+    ],
+    "moonSpotColour": [
+      255,
+      210,
+      165,
+      76
+    ],
+    "pillBackground": [
+      255,
+      38,
+      58,
+      110
+    ],
+    "primaryGradientEnd": [
+      255,
+      28,
+      178,
+      254
+    ],
+    "primaryGradientStart": [
+      255,
+      196,
+      87,
+      231
+    ],
+    "primaryText": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "secondaryText": [
+      255,
+      136,
+      158,
+      172
+    ],
+    "sunShineAccent": [
+      255,
+      254,
+      167,
+      132
+    ],
+    "sw_icons": {
+      "1": "neondark/1.png",
+      "2": "neondark/2.png",
+      "3": "neondark/3.png",
+      "4": "neondark/4.png",
+      "9": "neondark/9.png",
+      "10": "neondark/10.png",
+      "11": "neondark/11.png",
+      "13": "neondark/13.png",
+      "50": "neondark/50.png"
+    },
+    "tabBarActive": [
+      255,
+      254,
+      92,
+      162
+    ],
+    "tabBarIcons": {
+      "home": {
+        "active": "neondark/home_active.png",
+        "inactive": "neondark/home_inactive.png"
+      },
+      "search": {
+        "active": "neondark/search_active.png",
+        "inactive": "neondark/search_inactive.png"
+      },
+      "favourites": {
+        "active": "neondark/favourites_active.png",
+        "inactive": "neondark/favourites_inactive.png"
+      },
+      "menu": {
+        "active": "neondark/menu_active.png",
+        "inactive": "neondark/menu_inactive.png"
+      }
+    },
+    "tabBarInactive": [
+      255,
+      38,
+      85,
+      114
+    ]
+  }
+}
